@@ -1,0 +1,56 @@
+@import "@flaticon/flaticon-uicons/css/regular/rounded";
+@import "@flaticon/flaticon-uicons/css/solid/rounded";
+@import "@flaticon/flaticon-uicons/css/brands/all";
+
+@font-face {
+  font-family: "DupletRounded";
+  src: url("./assets/fonts/DupletRounded/DupletRounded-Regular.otf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DupletRounded-Semibold";
+  src: url("./assets/fonts/DupletRounded/DupletRounded-Semibold.otf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DupletRounded-Light";
+  src: url("./assets/fonts/DupletRounded/DupletRounded-Light.otf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+::-webkit-scrollbar {
+  width: 6px !important;
+  height: 6px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-track {
+  background: hsla(0, 0%, 100%, 0.2);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4em;
+  background-color: #eceae6;
+}
+
+i {
+  display: flex;
+}
+
+.swiper-pagination-bullet-active {
+  background: #fcb818 !important;
+}
+
+.swiper-pagination-bullet {
+  background: #d9d9d9;
+}

@@ -1,0 +1,94 @@
+{
+  "professionals": [
+    {
+      "id": 1,
+      "image": "images/draJuliaLeite.png",
+      "title": "Dra Júlia Leite",
+      "description": "Odontopediatria"
+    },
+    {
+      "id": 2,
+      "image": "images/draVanessaAkira.png",
+      "title": "Dra Vanessa Akira",
+      "description": "Ortopedista"
+    },
+    {
+      "id": 3,
+      "image": "images/draAnneGercina.png",
+      "title": "Dra Anne Gercina",
+      "description": "Odontopediatria"
+    },
+    {
+      "id": 4,
+      "image": "images/draMilenaNorder.png",
+      "title": "Dra Milena Norder",
+      "description": "Psicopedagoda"
+    }
+  ],
+  "differences": [
+    {
+      "image": "images/capacitados.png",
+      "title": "Profissionais altamente capacitados",
+      "description": "A sedação é um procedimento não invasivo e totalmente seguro. O paciente inala uma mistura de óxido nitroso e oxigênio. Pode ajudar a controlar a ansiedade e deixar o paciente mais tranquilo e relaxado durante os procedimentos."
+    },
+    {
+      "image": "images/space2.png",
+      "title": "Espaço feito para crianças",
+      "description": "Nosso espaço foi projetado do zero para que seu filho tenha uma experiência lúdica e inesquecível. Todo o ambiente é preparado para receber as crianças de maneira divertida e confortável e as salas são equipadas com as tecnologias mais atuais do mercado."
+    },
+    {
+      "image": "images/laserterapia.png",
+      "title": "Laserterapia",
+      "description": "A laserterapia é um tratamento que utiliza um feixe de luz eletromagnética para fins terapêuticos. A luz é absorvida pelo tecido e transformada em energia, o que estimula processos biológicos que favorecem a regeneração celular e a redução da inflamação."
+    }
+  ],
+  "spaces": [
+    "images/space.png",
+    "images/space.png",
+    "images/space.png",
+    "images/space.png",
+    "images/space.png",
+    "images/space.png",
+    "images/space.png",
+    "images/space.png"
+  ],
+  "specialites": [
+    "Psicopedagogia",
+    "Odontopediatria",
+    "Nutrição infantil",
+    "Fonoaudiologia",
+    "Dermatologia",
+    "Ortopedia",
+    "Pediatria"
+  ],
+  "doctors": {
+    "1": {
+      "name": "Dra Júlia Leite",
+      "image": "images/draJuliaLeite.png",
+      "subtitle": "Odontopediatria | CROSP 142096",
+      "description": "Somos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.",
+      "tags": ["Amante de cachorros", "Prefere doces amargos", "Casada"]
+    },
+    "2": {
+      "image": "images/draVanessaAkira.png",
+      "title": "Dra Vanessa Akira",
+      "subtitle": "Odontopediatria | CROSP 142096",
+      "description": "Somos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.",
+      "tags": ["Amante de cachorros", "Prefere doces amargos", "Casada"]
+    },
+    "3": {
+      "image": "images/draAnneGercina.png",
+      "title": "Dra Anne Gercina",
+      "subtitle": "Odontopediatria | CROSP 142096",
+      "description": "Somos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.",
+      "tags": ["Amante de cachorros", "Prefere doces amargos", "Casada"]
+    },
+    "4": {
+      "image": "images/draMilenaNorder.png",
+      "title": "Dra Milena Norder",
+      "subtitle": "Odontopediatria | CROSP 142096",
+      "description": "Somos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.\nSomos uma clínica integrativa especialista em pediatria na cidade de Campinas-SP. Cuidamos da saúde do seu filho enquanto ele se diverte.",
+      "tags": ["Amante de cachorros", "Prefere doces amargos", "Casada"]
+    }
+  }
+}
